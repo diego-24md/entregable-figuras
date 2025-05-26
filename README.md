@@ -1,4 +1,4 @@
-// Tarea del entregable: Figuras terminados...
+// Tarea del entregable.
 
 # Clasificador de Triángulos
 
